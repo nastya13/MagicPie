@@ -19,6 +19,8 @@ Be creative =)
 
 Edit your `PodFile` to include the following line:
 
+
+
 ```
 pod 'MagicPie'
 ```
